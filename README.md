@@ -1,1 +1,1 @@
-Landingpage section of theodingproject!
+Landingpage section of theodinproject!

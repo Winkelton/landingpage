@@ -1,0 +1,85 @@
+.header {
+    background-color:#1F2937;
+    font-size:18px;
+    color:#F9FAF8;
+    display:flex;
+    flex:1;
+    align-items: center;
+    justify-content:space-around;
+
+}
+.headerlogo, .links{
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+ul {
+    list-style: none;
+}
+  
+li {
+    display: inline;
+    margin-right: 10px;
+}
+a {
+    text-decoration: none;
+    color:#E5E7EB;
+    font-size:18px;
+}
+.headerlogo {
+    font-size:24px;
+    color:#F9FAF8;
+}
+
+.container {
+    display:flex;
+    flex:1;
+    font-size:18px;
+    color:#F9FAF8;
+    justify-content: center;
+    align-items: center;
+    background-color:#1F2937;
+    height:40vh;
+}
+
+.subtext{
+    font-size:18px;
+    color:#E5E7EB;
+    inline-size: 450px;
+    overflow-wrap: break-word;
+}
+.pagetitle{
+    inline-size:400px;
+    font-size:48px;
+    font-weight:bold;
+}
+.box {
+    background-color:grey;
+    width:25vw;
+    height:25vh;
+    display:flex;
+}
+.boxtext{
+   margin:auto;
+}
+.signupbutton{
+    color:#F9FAF8;
+    background-color:#3882F6;
+    border-radius:6px;
+    padding: 8px 24px;
+
+}
+
+.cardsection{
+display:flex;
+flex:1;
+justify-content: center;
+align-items: center;
+}
+
+.sectionheader{
+    margin:auto;
+    font-size:36px;
+    font-weight: bold;
+    padding:36px;
+}
