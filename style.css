@@ -149,3 +149,39 @@ a {
     width:43vw;
     padding:0px 64px 86px 0px;
 }
+.containerfour {
+    display:flex;
+    flex:1;
+    justify-content: center;
+    height:43vh;
+    background-color:#F9FAF8;
+    padding:86px;
+}
+.fourcontainer {
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:#3882F6;
+    border-radius:8px;
+    width:65vw;
+    height:15vh;    
+}
+.fourbigtext {
+    font-size:24px;
+    font-weight: bold;
+    color:#F9FAF8;
+}
+.foursmalltext {
+    font-size:18px;
+    color:#F9FAF8;
+}
+.fourbutton {
+    background-color:#3882F6;
+    border-radius:8px;
+    border:2px solid #F9FAF8;
+    width:120px;
+    height:36px;
+    color:#F9FAF8;
+    font-weight:bold;
+    font-size:18px;
+}
