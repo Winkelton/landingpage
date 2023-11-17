@@ -185,3 +185,18 @@ a {
     font-weight:bold;
     font-size:18px;
 }
+footer {
+    display:flex;
+    flex:1;
+    justify-content: center;
+    align-items: center;
+    padding:24px;
+}
+.footertext {
+    display:flex;
+    align-items: center;
+    color:#F9FAF8;
+    font-size:16px;
+    height:5vh;    
+    font-weight:900px;
+}
