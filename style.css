@@ -120,3 +120,32 @@ a {
     text-align: center;
     
 }
+.containerthree {
+    display:flex;
+    flex:1;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    background-color:#E5E7EB;
+}
+.bigquote {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:28vh;
+    font-size:36px;
+    font-style:italic;
+    color:#1F2937;
+    text-align: left;
+    width:43vw;
+    padding-top:86px;
+}
+.quoteauthor {
+    display:flex;
+    justify-content: flex-end;
+    align-items:center;
+    font-size:24px;
+    font-weight:bold;
+    width:43vw;
+    padding-bottom:86px;
+}
